@@ -1,8 +1,12 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "pre-deployment/meta",
       "default": true
+    },
+    {
+      "path": "force-app",
+      "default": false
     },
     {
       "path": "fflib-apex-mocks",
