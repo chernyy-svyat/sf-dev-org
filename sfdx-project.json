@@ -5,15 +5,15 @@
       "default": true
     },
     {
-      "path": "force-app",
-      "default": false
-    },
-    {
       "path": "fflib-apex-mocks",
       "default": false
     },
     {
       "path": "fflib",
+      "default": false
+    },
+    {
+      "path": "force-app",
       "default": false
     }
   ],
