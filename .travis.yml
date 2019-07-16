@@ -19,8 +19,7 @@ before_install:
 - sfdx force:auth:jwt:grant --clientid $CONSUMER_KEY --jwtkeyfile cert/traviscert.key
   --username $USERNAME --setdefaultdevhubusername -a DevHubOrg
 script:
-- sfdx force:org:create -v DevHubOrg -s -f config/project-scratch-def.json -a scratchOrg
-  --wait 2
+- sfdx force:org:create -v DevHubOrg -s -f config/project-scratch-def.json -a scratchOrg --wait 5
 - sfdx force:org:display -u scratchOrg
 - sfdx force:source:push -u scratchOrg
 - sfdx force:apex:test:run -u scratchOrg --wait 10
