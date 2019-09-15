@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Level__c</fullName>
+    <description>Travel agency level</description>
+    <externalId>false</externalId>
+    <required>true</required>
+    <label>Level</label>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Level A</fullName>
+                <default>true</default>
+                <label>A</label>
+            </value>
+            <value>
+                <fullName>Level B</fullName>
+                <default>false</default>
+                <label>B</label>
+            </value>
+            <value>
+                <fullName>Level C</fullName>
+                <default>false</default>
+                <label>C</label>
+            </value>
+            <value>
+                <fullName>Level D</fullName>
+                <default>false</default>
+                <label>D</label>
+            </value>
+            <value>
+                <fullName>Level E</fullName>
+                <default>false</default>
+                <label>E</label>
+            </value>
+            <value>
+                <fullName>Level F</fullName>
+                <default>false</default>
+                <label>F</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
