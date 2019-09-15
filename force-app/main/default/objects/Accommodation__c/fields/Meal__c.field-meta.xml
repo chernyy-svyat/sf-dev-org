@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Meal__c</fullName>
+    <description>Meal</description>
+    <externalId>false</externalId>
+    <label>Meal</label>
+    <required>true</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Accommodation Only</fullName>
+                <default>false</default>
+                <label>AO</label>
+            </value>
+            <value>
+                <fullName>Bed And Breakfast</fullName>
+                <default>false</default>
+                <label>BB</label>
+            </value>
+            <value>
+                <fullName>Half Board</fullName>
+                <default>false</default>
+                <label>HB</label>
+            </value>
+            <value>
+                <fullName>Half Board Plus</fullName>
+                <default>false</default>
+                <label>HB+</label>
+            </value>
+            <value>
+                <fullName>Full Board</fullName>
+                <default>false</default>
+                <label>FB</label>
+            </value>
+            <value>
+                <fullName>Full Board Plus</fullName>
+                <default>false</default>
+                <label>FB+</label>
+            </value>
+            <value>
+                <fullName>All Inclusive</fullName>
+                <default>true</default>
+                <label>AI</label>
+            </value>
+            <value>
+                <fullName>Ultra All Inclusive</fullName>
+                <default>false</default>
+                <label>UAI</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

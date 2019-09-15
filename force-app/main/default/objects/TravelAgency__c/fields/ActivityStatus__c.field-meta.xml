@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ActivityStatus__c</fullName>
+    <description>Travel agency activity status</description>
+    <externalId>false</externalId>
+    <required>true</required>
+    <label>Activity Status</label>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Active</fullName>
+                <default>true</default>
+                <label>Active</label>
+            </value>
+            <value>
+                <fullName>Blocked</fullName>
+                <default>false</default>
+                <label>Blocked</label>
+            </value>
+            <value>
+                <fullName>Limited Access</fullName>
+                <default>false</default>
+                <label>Limited</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
