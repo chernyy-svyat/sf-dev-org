@@ -37,3 +37,7 @@ This organization is an example of using an Apex Enterprise Patterns based on [F
 [LWC Source](https://github.com/chernyy-svyat/sf-dev-org/tree/develop/force-app/main/default/lwc "LWC Source")
 ![](https://i.imgur.com/rvEaVw9.png)
 ![](https://i.imgur.com/dgf5Gxv.png)
+
+Try the app in this [Scratch Org](https://efficiency-efficiency-6008-dev-ed.lightning.force.com/lightning/page/home "Scratch Org") (_Setup -> Accommodation Explorer_)
+User: _test@ae.com_
+Pass: _pass20ae_
