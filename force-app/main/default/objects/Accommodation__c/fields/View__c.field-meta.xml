@@ -4,7 +4,7 @@
     <description>View</description>
     <externalId>false</externalId>
     <label>View</label>
-    <required>false</required>
+    <required>true</required>
     <type>Picklist</type>
     <valueSet>
         <restricted>true</restricted>
@@ -44,6 +44,11 @@
                 <fullName>Park View</fullName>
                 <default>false</default>
                 <label>PV</label>
+            </value>
+            <value>
+                <fullName>Street View</fullName>
+                <default>false</default>
+                <label>STV</label>
             </value>
             <value>
                 <fullName>Inside View</fullName>

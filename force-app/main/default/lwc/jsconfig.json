@@ -2,7 +2,23 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "c/accommodationList": [
+                "accommodationList/accommodationList.js"
+            ],
+            "c/accommodationMap": [
+                "accommodationMap/accommodationMap.js"
+            ],
+            "c/accommodationSearchBar": [
+                "accommodationSearchBar/accommodationSearchBar.js"
+            ],
+            "c/accommodationTile": [
+                "accommodationTile/accommodationTile.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ]
+        }
     },
     "include": [
         "**/*",

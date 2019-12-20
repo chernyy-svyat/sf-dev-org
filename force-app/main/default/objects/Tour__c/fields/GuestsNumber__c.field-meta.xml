@@ -8,6 +8,6 @@
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Number</type>
-    <precision>1</precision>
+    <precision>18</precision>
     <scale>0</scale>
 </CustomField>
