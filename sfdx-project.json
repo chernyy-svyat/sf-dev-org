@@ -1,19 +1,51 @@
 {
   "packageDirectories": [
     {
-      "path": "pre-deployment/meta",
+      "path": "force-app",
       "default": true
     },
     {
-      "path": "fflib-apex-mocks",
+      "path": "force-app/lib/fflib-apex-mocks",
       "default": false
     },
     {
-      "path": "fflib",
+      "path": "force-app/lib/fflib",
       "default": false
     },
     {
-      "path": "force-app",
+      "path": "force-app/general",
+      "default": false
+    },
+    {
+      "path": "force-app/test",
+      "default": false
+    },
+    {
+      "path": "force-app/general-test/test-factory",
+      "default": false
+    },
+    {
+      "path": "force-app/general-test/test-sobject-creator",
+      "default": false
+    },
+    {
+      "path": "force-app/aep/controller",
+      "default": false
+    },
+    {
+      "path": "force-app/aep/domain",
+      "default": false
+    },
+    {
+      "path": "force-app/aep/selector",
+      "default": false
+    },
+    {
+      "path": "force-app/aep/service",
+      "default": false
+    },
+    {
+      "path": "force-app/aep/queueable",
       "default": false
     }
   ],

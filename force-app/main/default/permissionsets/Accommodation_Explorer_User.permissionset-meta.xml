@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>Accommodation_Explorer</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <description>User permissions for Accommodation App</description>
+    <!-- No need to include fieldPermissions sections
+        because all fields of Accommodations are required -->
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Accommodation Explorer User</label>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Accommodation__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <tabSettings>
+        <tab>Accommodation__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+</PermissionSet>

@@ -1,0 +1,26 @@
+<template>
+	<div class="accommodation-list">
+		<lightning-card title="Accommodations" icon-name="utility:pin" >
+			<div class="scrollContainer">
+				<div class="slds-card__body_inner">
+					<template if:true={accommodations}>
+							<ul class="slds-list_vertical slds-has-dividers_righ">
+								<template for:each={accommodations} for:item="acc" >
+									<lightning-layout-item key={acc.Id} size="3" class="slds-p-around_x-small">
+										<li>
+											<c-accommodation-tile accommodation={acc}></c-accommodation-tile>
+										</li>
+									</lightning-layout-item>
+								</template>
+							</ul>
+					</template>
+					<template if:false={accommodations}>
+						<div class="slds-text-color_error">
+							An error occurred while loading the Accommodation list
+						</div>
+					</template>
+				</div>
+			</div>
+		</lightning-card>
+	</div>
+</template>

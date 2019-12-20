@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Accommodation__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Accommodation__cs.json"
+        ]
+    }
+]

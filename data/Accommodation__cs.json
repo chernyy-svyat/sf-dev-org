@@ -1,0 +1,154 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Accommodation__c",
+                "referenceId": "Accommodation__cRef1"
+            },
+            "Name": "JW Marriott Hotel Rio de Janeiro",
+            "Address__c": "Av. Atlântica, 2600 - Copacabana, Rio de Janeiro - RJ, 22041-001, Brasil",
+            "Line__c": "First Line",
+            "Meal__c": "Bed And Breakfast",
+            "Type__c": "Double",
+            "View__c": "Sea View",
+            "Location__Latitude__s": -22.9724265,
+            "Location__Longitude__s": -43.185874,
+            "PhotoUrl__c": "https://pix5.agoda.net/hotelImages/4889154/0/2411a2f2d65c7eebef6f489ec2d92aaa.jpg?s=450x450"
+        },
+        {
+            "attributes": {
+                "type": "Accommodation__c",
+                "referenceId": "Accommodation__cRef2"
+            },
+            "Name": "Hotel Villa Morra Suites",
+            "Address__c": "Avenida Mariscal Francisco Solano López 3001, Asunción, Paraguay",
+            "Line__c": "Other",
+            "Meal__c": "Bed And Breakfast",
+            "Type__c": "Single",
+            "View__c": "Pool View",
+            "Location__Latitude__s": -25.2900257,
+            "Location__Longitude__s": -57.5855251,
+            "PhotoUrl__c": "https://pix6.agoda.net/hotelImages/188/188361/188361_1212061422009068610.jpg?s=450x450"
+        },
+        {
+            "attributes": {
+                "type": "Accommodation__c",
+                "referenceId": "Accommodation__cRef3"
+            },
+            "Name": "Hyatt Centric Montevideo",
+            "Address__c": "Rambla República del Perú 1479, 11300 Montevideo, Departamento de Montevideo, Uruguay",
+            "Line__c": "First Line",
+            "Meal__c": "All Inclusive",
+            "Type__c": "Double",
+            "View__c": "Side Sea View",
+            "Location__Latitude__s": -34.9115236,
+            "Location__Longitude__s": -56.1500063,
+            "PhotoUrl__c": "https://pix6.agoda.net/hotelImages/6796131/0/aaaf722031b1f20725096033855f37ea.jpg?s=450x450"
+        },
+        {
+            "attributes": {
+                "type": "Accommodation__c",
+                "referenceId": "Accommodation__cRef4"
+            },
+            "Name": "Mansion Vitraux",
+            "Address__c": "Carlos Calvo 369, C1102AAG CABA, Argentina",
+            "Line__c": "Other",
+            "Meal__c": "Bed And Breakfast",
+            "Type__c": "Double",
+            "View__c": "Street View",
+            "Location__Latitude__s": -34.6194288,
+            "Location__Longitude__s": -58.3711244,
+            "PhotoUrl__c": "https://pix6.agoda.net/hotelImages/694/6943244/6943244_19050822290074364205.jpg?s=450x450"
+        },
+        {
+            "attributes": {
+                "type": "Accommodation__c",
+                "referenceId": "Accommodation__cRef5"
+            },
+            "Name": "Novotel Santiago Providencia",
+            "Address__c": "Av. Holanda 222, Providencia, Región Metropolitana, Chile",
+            "Line__c": "Other",
+            "Meal__c": "Bed And Breakfast",
+            "Type__c": "Double",
+            "View__c": "Street View",
+            "Location__Latitude__s": -33.4210577,
+            "Location__Longitude__s": -70.6055462,
+            "PhotoUrl__c": "https://pix6.agoda.net/hotelImages/5743858/-1/d758897f594c17fcaff2564b5da7b5de.jpg?s=450x450"
+        },
+        {
+            "attributes": {
+                "type": "Accommodation__c",
+                "referenceId": "Accommodation__cRef6"
+            },
+            "Name": "La Casona Hotel Boutique",
+            "Address__c": "Avenida Mariscal Santa Cruz 938, La Paz, Bolivia",
+            "Line__c": "Other",
+            "Meal__c": "Bed And Breakfast",
+            "Type__c": "Double",
+            "View__c": "Street View",
+            "Location__Latitude__s": -16.4968591,
+            "Location__Longitude__s": -68.1387976,
+            "PhotoUrl__c": "https://pix6.agoda.net/hotelImages/396/396771/396771_1212270655009934097.jpg?s=450x450"
+        },
+        {
+            "attributes": {
+                "type": "Accommodation__c",
+                "referenceId": "Accommodation__cRef7"
+            },
+            "Name": "Belmond Miraflores Park",
+            "Address__c": "Av, Malecón de la Reserva 1035, Miraflores 15074, Peru",
+            "Line__c": "First Line",
+            "Meal__c": "Bed And Breakfast",
+            "Type__c": "Double",
+            "View__c": "Sea View",
+            "Location__Latitude__s": -12.1345503,
+            "Location__Longitude__s": -77.0347271,
+            "PhotoUrl__c": "https://pix6.agoda.net/hotelImages/613/61324/61324_15103016040037313513.jpg?s=450x450"
+        },
+        {
+            "attributes": {
+                "type": "Accommodation__c",
+                "referenceId": "Accommodation__cRef8"
+            },
+            "Name": "NH Collection Quito Royal",
+            "Address__c": "Luis Cordero 444 y, Quito 170517, Ecuador",
+            "Line__c": "Other",
+            "Meal__c": "Half Board Plus",
+            "Type__c": "Double + Extra Bed",
+            "View__c": "Street View",
+            "Location__Latitude__s": -0.2052436,
+            "Location__Longitude__s": -78.4871324,
+            "PhotoUrl__c": "https://pix6.agoda.net/hotelImages/59518/0/8237b473b54a65bc2ef1af05e5c3c0e4.jpg?s=450x450"
+        },
+        {
+            "attributes": {
+                "type": "Accommodation__c",
+                "referenceId": "Accommodation__cRef9"
+            },
+            "Name": "Four Seasons Hotel Casa Medina Bogota",
+            "Address__c": "Cra. 7 ##69A-22, Bogotá, Cundinamarca, Colombia",
+            "Line__c": "Other",
+            "Meal__c": "All Inclusive",
+            "Type__c": "Twin",
+            "View__c": "Street View",
+            "Location__Latitude__s": 4.6550762,
+            "Location__Longitude__s": -74.0602791,
+            "PhotoUrl__c": "https://pix6.agoda.net/hotelImages/113/1134516/1134516_16080115340045095912.jpg?s=450x450"
+        },
+        {
+            "attributes": {
+                "type": "Accommodation__c",
+                "referenceId": "Accommodation__cRef10"
+            },
+            "Name": "Lidotel Hotel Centro Lido",
+            "Address__c": "Av. Tamanaco, Caracas 1060, Miranda, Venezuela",
+            "Line__c": "Other",
+            "Meal__c": "Accommodation Only",
+            "Type__c": "Triple",
+            "View__c": "Pool View",
+            "Location__Latitude__s": 10.4912885,
+            "Location__Longitude__s": -66.8641285,
+            "PhotoUrl__c": "https://pix6.agoda.net/hotelImages/445/445015/445015_130522163036585.jpg?s=450x450"
+        }
+    ]
+}
